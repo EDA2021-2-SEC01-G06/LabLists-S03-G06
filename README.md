@@ -4,6 +4,11 @@ Este proyecto busca mostrar una posible forma de organizar el código que se va 
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
 
+
+# Santiago Moncada Mejia - 202112143
+# Alan Sneyder Fonseca Garcia - 20211423
+
+
 La estructura tiene los siguiente directorios y archivos:
 
 -App
