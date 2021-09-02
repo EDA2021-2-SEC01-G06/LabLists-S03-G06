@@ -6,7 +6,7 @@ Esta organización es una sugerencia que puede ser adaptada a  las necesidades y
 
 
 # Santiago Moncada Mejia - 202112143
-# Alan Sneyder Fonseca Garcia - 20211423
+# Alan Snade Fonseca Garcia - 20211423
 
 
 La estructura tiene los siguiente directorios y archivos:
